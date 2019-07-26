@@ -9,7 +9,7 @@ import { Header } from 'mint-ui';
 import 'mint-ui/lib/style.css'
 Vue.component(Header.name, Header);
 import './lib/mui/css/mui.css'
-//321
+//321aaaaaaaa
 var vm = new Vue({
     el:'#app',
     router,
